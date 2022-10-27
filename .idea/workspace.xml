@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b985498-3c66-436a-8c03-2a7b0133ebe3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/SeleniumPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/base_url/JsonplaceholderBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/base_url/RestfulBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/com.Batch81Cucumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/java/pages/PractiseNegativeTestPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/java/stepDefinitions/PractiseNegativeTestStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/resources/features/Practise00001.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnit practice/com.Batch81JUnit/com.Batch81JUnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/com.Batch81TestNG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/java/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/cucumber-reports.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/json-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/json-reports/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/cucumber.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/cucumber.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/features/Practice_US_06.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/features/US_07_reserve_car.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/AmazonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/AmazonPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/DefaultPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PaymentPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeAmazonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeAmazonPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeFormPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeFormPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeTC07Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeTC07Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeTestPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/PracticeTestPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/Practice_TC07_Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/Practice_TC07_Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/US_06Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/pages/US_06Pages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/TestRunner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/TestRunner2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/TestRunner3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/runners/TestRunner3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/AmazonStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/AmazonStepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/PracticeAmazonStepDef.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/PracticeAmazonStepDef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/PracticeFormStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/PracticeFormStepDefs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/PracticeTestPageStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/PracticeTestPageStepDefs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/Practice_TC_07steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/Practice_TC_07steps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/ReserveCarStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/ReusableStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/ReusableStepDefs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/stepDefinitions/US_06StepDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/xml-report/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/xml-report/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81JUnit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81JUnit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81JUnit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81JUnit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81Selenium/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81Selenium/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81TestNG/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81TestNG/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Rapor/rapor20221005100542.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Rapor/rapor20221005101408.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Rapor/rapor20221006015757.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Screenshots/hepsiburada20221004101012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Screenshots/hepsiburada20221004101042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Screenshots/hepsiburada20221004101108.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Screenshots/hepsiburada20221004104153.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/Screenshots/test0120221005101418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/WElementScreenshots/AramaSonucWE20221004104218.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/WElementScreenshots/AramaSonucWE20221005013048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com.Batch81TestNG/target/test-classes/tests/day23/C02_DataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../com.Batch81TestNG/target/test-classes/tests/day23/C02_DataProvider.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gi7horLLLIyM1xP63g70RPPQHN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/PC/Desktop/Yeni klasör (2)/02-Selenium/SeleniumPractice/API_WORKING_2022"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Desktop\Yeni klasör (2)\02-Selenium\SeleniumPractice\API_WORKING_2022" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b985498-3c66-436a-8c03-2a7b0133ebe3" name="Changes" comment="" />
+      <created>1666859673569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666859673569</updated>
+    </task>
+    <servers />
+  </component>
+</project>
