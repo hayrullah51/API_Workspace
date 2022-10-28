@@ -21,14 +21,9 @@
       <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get03.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get04.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../APIBatch81/src/test/java/get_request/Get05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/base_url/RestfulBaseUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get_request/Get04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/get_request/Get05.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CucumberPractice/.idea/dbnavigator.xml" afterDir="false" />
@@ -41,7 +36,39 @@
       <change afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/java/stepDefinitions/PractiseNegativeTestStepDefs.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/resources/features/Practise00001.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JUnit practice/com.Batch81JUnit/com.Batch81JUnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/com.Batch81TestNG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/pages/BrcPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/pages/DhtmlgoodiesPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/pages/HerokuTestPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/pages/SearchProductPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/pages/WebTablePages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/pages/WebUniversityPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/tests/practice05/P01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/tests/practice05/P02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/tests/practice06/P01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/tests/practice07/P01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/tests/practice08/P01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/ConfigReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/CrossDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/ReusableMethods$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/ReusableMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/TestBaseBeforeAfter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/TestBaseBeforeClassAfterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/TestBaseCross.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch81TestNG/target/test-classes/utilities/TestBaseRapor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base_url/JsonplaceholderBaseUrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base_url/JsonplaceholderBaseUrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/get_request/Get01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get_request/Get01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/get_request/Get02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get_request/Get02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/get_request/Get03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/get_request/Get03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/src/test/java/runners/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/cucumber-reports.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/cucumber-reports.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CucumberPractice/target/json-reports/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CucumberPractice/target/json-reports/cucumber.json" afterDir="false" />
@@ -99,11 +126,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1666866789" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1666866788" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2Gi7horLLLIyM1xP63g70RPPQHN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -113,18 +179,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/PC/Desktop/Yeni klasör (2)/02-Selenium/SeleniumPractice/API_WORKING_2022"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/Yeni klasör (2)/02-Selenium/SeleniumPractice/com.Batch81TestNG&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC\Desktop\Yeni klasör (2)\02-Selenium\SeleniumPractice\API_WORKING_2022" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Get05.get05">
+    <configuration name="Get03.get03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_WORKING_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_request" />
+      <option name="MAIN_CLASS_NAME" value="get_request.Get03" />
+      <option name="METHOD_NAME" value="get03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_WORKING_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_request" />
+      <option name="MAIN_CLASS_NAME" value="get_request.Get04" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get04.get04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_WORKING_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_request" />
+      <option name="MAIN_CLASS_NAME" value="get_request.Get04" />
+      <option name="METHOD_NAME" value="get04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_WORKING_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_request" />
+      <option name="MAIN_CLASS_NAME" value="get_request.Get05" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get05.get05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="API_WORKING_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="get_request.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="get_request" />
+      <option name="MAIN_CLASS_NAME" value="get_request.Get05" />
+      <option name="METHOD_NAME" value="get05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Get05.get05" />
+        <item itemvalue="JUnit.Get05" />
+        <item itemvalue="JUnit.Get04.get04" />
+        <item itemvalue="JUnit.Get04" />
+        <item itemvalue="JUnit.Get03.get03" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -136,5 +291,28 @@
       <updated>1666859673569</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
